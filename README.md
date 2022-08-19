@@ -13,6 +13,8 @@
 -   Celery + Redis
 -   pyTelegramBotAPI
 -   Docker + docker-compose
+-   Nginx
+-   Obsidian
 
 ---
 #### Soft Skills
