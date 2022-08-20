@@ -14,6 +14,7 @@
 -   pyTelegramBotAPI
 -   Docker + docker-compose
 -   Nginx
+-   Git
 -   Obsidian
 
 ---
