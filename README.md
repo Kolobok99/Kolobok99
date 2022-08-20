@@ -1,8 +1,8 @@
 ### Иван Золотавин
 
 #### Contacts
-Telegram: @gfdsyd
-email: izolotavin99@gmail.com
+Telegram: @gfdsyd <br>
+email: izolotavin99@gmail.com <br>
 viber: +7-922-777-63-70
 
 ---
