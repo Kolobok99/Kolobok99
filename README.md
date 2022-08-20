@@ -1,4 +1,10 @@
 ### Иван Золотавин
+
+#### Contacts
+Telegram: @gfdsyd
+email: izolotavin99@gmail.com
+viber: +7-922-777-63-70
+
 ---
 #### Profile
 Я разработчик на Python и Django. Ищу интересную, оплачиваемую работу в хорошей компании.
