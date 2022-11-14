@@ -1,7 +1,7 @@
 ### Иван Золотавин
 
 #### Contacts
-Telegram: @gfdsyd <br>
+Telegram: @ZIO_987 <br>
 email: izolotavin99@gmail.com <br>
 viber: +7-922-777-63-70
 
@@ -19,6 +19,8 @@ viber: +7-922-777-63-70
 -   Celery + Redis
 -   pyTelegramBotAPI
 -   Docker + docker-compose
+-   GitLab CI/CD
+-   Swagger
 -   Nginx
 -   Linux (Ubuntu)
 -   Git
